@@ -1,0 +1,17 @@
+D:\unreal projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+D:\unreal projects\StealthGame\Source\FPSGame\Public\FPSHUD.h
+D:\program files\unreal\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\program files\unreal\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\program files\unreal\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\program files\unreal\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\program files\unreal\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\unreal projects\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSHUD.generated.h
+D:\program files\unreal\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\program files\unreal\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\program files\unreal\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\program files\unreal\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\program files\unreal\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\program files\unreal\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\program files\unreal\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\program files\unreal\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\program files\unreal\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
